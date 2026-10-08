@@ -1,6 +1,9 @@
 # app.py
 # Render배포 연습용 앱
 
+# 터미널 경로 변경
+# cd .\webservice\day31\myapp
+
 # 로컬 실행
 # python -m streamlit run ./webservice/day31/myapp/app.py
 
